@@ -1,4 +1,8 @@
-### Hi there 👋
+###  Olá Me chamo Luã 👋
+### Estou aprendendendo 
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+          
 
 
   
