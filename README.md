@@ -6,9 +6,9 @@
 <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  #3776AB 
+  
 </div>          
-          
+  #3776AB         
 
 ![snake gif](https://github.com/Lhamcode/Lhamcode/blob/output/github-contribution-grid-snake.svg)
 
