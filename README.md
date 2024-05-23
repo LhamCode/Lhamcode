@@ -1,4 +1,6 @@
-###  Olá Me chamo Luã 👋 :sparkle:
+###  Olá Me chamo Luã👋 :sparkle:
+Sou Estudante de Sistemas de Informação e Licenciatura em Computação, atualmente participo do projeto Desenvolvendor Back-End Afrocódigos.
+Apaixonado por tecnologia, me tornando um "JAVEIRO", focado no desenvolvimento de software meu foco atualmente é o JAVA, tenho bons conhecimentos em python também.
 
 ### Estou aprendendendo 
 <div>
