@@ -32,7 +32,7 @@ Apaixonado por tecnologia, me tornando um "JAVEIRO", focado no desenvolvimento d
 
 <div>
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" href="https://wwww.linkedin.com/in/lhamcode" />
+<img loading="lazy" height="50" href="https://wwww.linkedin.com/in/lhamcode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
           
           
 </div>
