@@ -1,6 +1,8 @@
 ###  Olá Me chamo Luã👋 :sparkle:
-Sou Estudante de Sistemas de Informação e Licenciatura em Computação, atualmente participo do projeto Desenvolvendor Back-End Afrocódigos.
-Apaixonado por tecnologia, me tornando um "JAVEIRO", focado no desenvolvimento de software meu foco atualmente é o JAVA, tenho bons conhecimentos em python também.
+Sou Estudante de Sistemas de Informação e Licenciatura em Computação.
+Apaixonado por tecnologia, estudando sobre a área de segurana, aprimorando conhecimentos básicos e evoluindo a cada dia.
+Tenho conhecimento de desenvolvimento de softwares com Java e Python.
+Estou atualmente como voluntário em uma ONG desenvolvendo o backend com NodeJS.
 
 ### Estou aprendendendo 
 <div>
