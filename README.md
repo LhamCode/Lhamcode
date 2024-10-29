@@ -4,7 +4,7 @@ Apaixonado por tecnologia, estudando sobre a área de segurana, aprimorando conh
 Tenho conhecimento de desenvolvimento de softwares, Segurança de Endpoints, NOC, SOC, Threath Intelligence.
 Estou em transição de carreira
 
-### Estou aprendendendo 
+### Algumas Tecnologias utilizadas 
 <div>
 <!-- img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  -->
 <!-- <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
