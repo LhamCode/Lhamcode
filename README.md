@@ -1,7 +1,7 @@
 ###  Olá Me chamo Luã👋 :sparkle:
 Sou Estudante de Sistemas de Informação e Licenciatura em Computação.
-Apaixonado por tecnologia, estudando sobre a área de segurana, aprimorando conhecimentos básicos e evoluindo a cada dia.
-Tenho conhecimento de desenvolvimento de softwares, Segurança de Endpoints, NOC, SOC, Threath Intelligence.
+Apaixonado por tecnologia, estudando sobre a área de segurança, aprimorando conhecimentos básicos e evoluindo a cada dia.
+Tenho conhecimento de desenvolvimento de softwares, Segurança de Endpoints e Segurança Offensiva.
 Estou em transição de carreira
 
 ### Algumas Tecnologias utilizadas 
