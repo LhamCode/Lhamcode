@@ -2,7 +2,7 @@
 Sou Estudante de Sistemas de Informação e Licenciatura em Computação.
 Apaixonado por tecnologia, estudando sobre a área de segurança, aprimorando conhecimentos básicos e evoluindo a cada dia.
 Tenho conhecimento de desenvolvimento de softwares, Segurança de Endpoints e Segurança Offensiva.
-Estou em transição de carreira
+Atuando com Suporte N1 estou desenvolvendo automações com Ansible e IA.
 
 ### Algumas Tecnologias utilizadas 
 <div>
