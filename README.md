@@ -1,46 +1,42 @@
 ###  Olá Me chamo Luã👋 :sparkle:
-Sou Estudante de Sistemas de Informação e Licenciatura em Computação.
-Apaixonado por tecnologia, estudando sobre a área de segurança, aprimorando conhecimentos básicos e evoluindo a cada dia.
-Tenho conhecimento de desenvolvimento de softwares, Segurança de Endpoints e Segurança Offensiva.
-Atuando com Suporte N1 estou desenvolvendo automações com Ansible e IA.
+🕶️ Quem sou eu
 
-### Algumas Tecnologias utilizadas 
-<div>
-<!-- img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  -->
-<!-- <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
-<!-- <img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> -->
+🧑‍💻 Iniciante em Pentest e Segurança Ofensiva
+
+🌐 Com experiência prévia em infraestrutura e redes
+
+🧱 Construindo base sólida antes de pular para coisas avançadas
+
+📚 Aprendendo no dia a dia com labs, CTFs, cursos e muita documentação
+
+Objetivo: sair do básico para atuar de forma profissional em segurança ofensiva, usando meu conhecimento de redes e infra como diferencial.
+
+     ╔══════════════════╗
+     ║   C0p0l4_404      ║
+     ║   [ RED • TEAM ]  ║
+     ╚══════════════════╝
+         \   ^__^
+          \  (xx)\_______
+             (__)\       )\/\
+              U  ||----w |
+                 ||     ||
 
 
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />        
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<!--img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-<!--img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<!--img loading="lazy" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-          
-          
-          
-          
-          
-  
-</div>          
-          
+📚 O que estou estudando agora
 
-![snake gif](https://github.com/Lhamcode/Lhamcode/blob/output/github-contribution-grid-snake.svg)
+Fundamentos de Pentest Web (requisições HTTP, auth, sessões, OWASP Top 10)
 
-<div>
-<!--a href="https://github.com/Lhamcode">
-<!--img loading="lazy" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lhamcode&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="150" src="https://github-readme-stats.vercel.app/api?username=Lhamcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> */ -->
+Enumeração e Reconhecimento (serviços, portas, banners)
+
+Conceitos de Red Team
+
+Exploração inicial em ambientes de laboratório (máquinas vulneráveis, VMs)
+
+Análise de tráfego com foco em entender melhor ataques e respostas
+
+📈 Estatísticas do GitHub
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=LhamCode&show_icons=true&theme=tokyonight&count_private=true" /> </p>
 </div>
 
-<div>
- 
-
-          
-          
-</div>
+🔗 Contato
+<p align="center"> <a href="https://www.linkedin.com/in/lhamcode/"> <img src="https://img.shields.io/badge/LinkedIn-Luã%20Moura-0e76a8?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/LhamCode"> <img src="https://img.shields.io/badge/GitHub-LhamCode-000000?style=for-the-badge&logo=github" /> </a> </p> <p align="center"><i>aprendendo um pouco todo dia, sem pular etapas.</i></p> ```
